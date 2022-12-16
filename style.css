@@ -133,6 +133,11 @@ ul {
     max-width: 500px;
 }
 
+/* text in bio, w/ italic styyle */
+.oblique-text{
+    font-style: oblique;
+}
+
 /* icon padding */
 .ico {
     cursor: pointer;
